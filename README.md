@@ -2,14 +2,11 @@
 
  
 <!--**SadeTosin/SadeTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm a Computer Science Graduate (HND,2022 Batch)
+I'm a Computer Science Graduate (HND - 2022 Batch)
 - 🔭 A Data Science Enthusiastic
 - 🌱 I’m currently working on :
-
    Artificial Intelligence
-   
-   Data Endineering
- 
+   Data Engineering 
 - ⚡ Fun fact: I love Pet and my favourite Pet is Dog
 - 🌟 Motivated by the desire to achieve success
 
