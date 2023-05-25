@@ -5,13 +5,11 @@
 I'm a Computer Science Graduate (HND,2022 Batch)
 - 🔭 A Data Science Enthusiastic
 - 🌱 I’m currently working on :
+- 
    Artificial Intelligence
+   
    Data Endineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ 
 - ⚡ Fun fact: I love Pet and my favourite Pet is Dog
 - 🌟 Motivated by the desire to achieve success
 
