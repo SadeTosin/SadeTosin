@@ -2,7 +2,7 @@
 
  
 <!--**SadeTosin/SadeTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm a Computer Science Graduate (HND - 2022 Batch)
+I'm a Certified Computer Science and Data trained 
 - 🔭 A Data Science Enthusiastic
 - 🌱 I’m currently working on :
 
