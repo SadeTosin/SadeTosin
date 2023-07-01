@@ -18,4 +18,12 @@ I am a certified computer science and data professional with a strong passion fo
 </div>
 
 
+### Languages and Tools:
+
+<img align="left" alt="ai" width="26px" height="30px" src=" ai.png" />
+ 
+<br>
+<br>
+
+
  
