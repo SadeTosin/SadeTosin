@@ -20,18 +20,18 @@ I am a certified computer science and data professional with a strong passion fo
 
 ### Languages and Tools:
 
-<img align="left" alt="PowerBI" width="70px" height="35px" src="assets/PowerBI .png" />
+<img align="left" alt="PowerBI" width="30px" height="30px" src="assets/PowerBI .png" />
 <img align="left" alt="excel" width="30px" height="30px" src="assets/excel .png" />
-<img align="left" alt="googledatastudio" width="45px" height="35px" src="assets/googledatastudio .png" />
-<img align="left" alt="ChatGPT" width="25px" height="25px" src="assets/ChatGPT.png" />
+<img align="left" alt="googledatastudio" width="30px" height="30px" src="assets/googledatastudio .png" />
+<img align="left" alt="ChatGPT" width="30px" height="30px" src="assets/ChatGPT.png" />
 <img align="left" alt="mysql" width="30px" height="30px" src="assets/mysql .png" />
 <img align="left" alt="python" width="30px" height="30px" src="assets/python .png" />
-<img align="left" alt="matplotlib" width="25px" height="25px" src="assets/matplotlib.png" />
+<img align="left" alt="matplotlib" width="30px" height="30px" src="assets/matplotlib.png" />
 <img align="left" alt="postgresql" width="30px" height="30px" src="assets/postgresql .png" />
 <img align="left" alt="powerpoint" width="30px" height="30px" src="assets/powerpoint .png" />
-<img align="left" alt="numpy" width="40px" height="40px" src="assets/numpy .png" />
-<img align="left" alt="pandas" width="40px" height="40px" src="assets/pandas .png" />
-<img align="left" alt="tableau" width="40px" height="40px" src="assets/tableau .png" />
+<img align="left" alt="numpy" width="30px" height="30px" src="assets/numpy .png" />
+<img align="left" alt="pandas" width="30px" height="30px" src="assets/pandas .png" />
+<img align="left" alt="tableau" width="30px" height="30px" src="assets/tableau .png" />
 
 <br>
 <br>
