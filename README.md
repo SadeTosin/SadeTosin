@@ -20,20 +20,18 @@ I am a certified computer science and data professional with a strong passion fo
 
 ### Languages and Tools:
 
-<img align="left" alt="PowerBI" width="26px" height="30px" src="ai.png" />
-<img align="left" alt="excel" width="26px" height="30px" src="excel.png" />
-<img align="left" alt="ai" width="26px" height="30px" src="ai.png" />
-<img align="left" alt="googledatastudio" width="26px" height="30px" src="googledatastudio.png" />
-<img align="left" alt="mysql" width="26px" height="30px" src="mysql.png" />
-<img align="left" alt="python" width="26px" height="30px" src="python.png" />
-<img align="left" alt="postgresql" width="26px" height="30px" src="postgresql.png" />
-<img align="left" alt="powerpoint" width="26px" height="30px" src="powerpoint.png" />
-<img align="left" alt="numpy" width="26px" height="30px" src="numpy.png" />
-<img align="left" alt="pandas" width="26px" height="30px" src="pandas.png" />
-<img align="left" alt="tableau" width="26px" height="30px" src="tableau.png" />
-<img align="left" alt="machine-learning" width="26px" height="30px" src="machine-learning.png" />
-<img align="left" alt="matplotlib" width="26px" height="30px" src="matplotlib.png" />
-<img align="left" alt="ChatGPT" width="26px" height="30px" src="ChatGPT.png" /> 
+<img align="left" alt="PowerBI" width="70px" height="35px" src="assets/PowerBI .png" />
+<img align="left" alt="excel" width="30px" height="30px" src="assets/excel .png" />
+<img align="left" alt="googledatastudio" width="45px" height="35px" src="assets/googledatastudio .png" />
+<img align="left" alt="ChatGPT" width="25px" height="25px" src="assets/ChatGPT.png" />
+<img align="left" alt="mysql" width="30px" height="30px" src="assets/mysql .png" />
+<img align="left" alt="python" width="30px" height="30px" src="assets/python .png" />
+<img align="left" alt="matplotlib" width="25px" height="25px" src="assets/matplotlib.png" />
+<img align="left" alt="postgresql" width="30px" height="30px" src="assets/postgresql .png" />
+<img align="left" alt="powerpoint" width="30px" height="30px" src="assets/powerpoint .png" />
+<img align="left" alt="numpy" width="40px" height="40px" src="assets/numpy .png" />
+<img align="left" alt="pandas" width="40px" height="40px" src="assets/pandas .png" />
+<img align="left" alt="tableau" width="40px" height="40px" src="assets/tableau .png" />
 
 <br>
 <br>
