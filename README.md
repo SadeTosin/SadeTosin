@@ -1,6 +1,6 @@
 <!--**SadeTosin/SadeTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![ViewCount](https://views.whatilearened.today/views/github/SadeTosin/README.md.svg?cache=remove)
-<h2 align="left">Hi there ! 👋 I am Folasade Oluwatosin - Data Science Consultant at 10Alytics </h2> 
+<h2 align="left">Hi there ! 👋 My name is Folasade Oluwatosin - Data Science Consultant at 10Alytics </h2> 
 <br clear="both">
 <img align="centre" width="450" height="200" src="assets/2000w.webp"  />
 <h3 align="left">Data Science Enthusiast  |  Passionate about Big Data  |  Strategic Troubleshooter </h3> 
