@@ -12,6 +12,9 @@ I am a certified computer scientist and data professional with a strong passion 
   <a href="https://www.linkedin.com/in/fola-tosin-05b73023a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+ <a href="https://public.tableau.com/app/profile/folasade.oluwatosin" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://twitter.com/tech_with_fola" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
      <a href="https://www.instagram.com/tech_with_fola/" target="_blank">
@@ -20,7 +23,7 @@ I am a certified computer scientist and data professional with a strong passion 
   </a>
 </div>
 <hr>
-
+ 
 ### Languages and Tools:
 
 <img align="left" alt="PowerBI" width="30px" height="30px" src="assets/PowerBI .png" />
