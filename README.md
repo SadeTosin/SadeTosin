@@ -30,7 +30,6 @@ I am a certified computer scientist and data professional with a strong passion 
 <img align="left" alt="excel" width="30px" height="30px" src="assets/excel .png" />
 <img align="left" alt="ChatGPT" width="30px" height="30px" src="assets/ChatGPT.png" />
 <img align="left" alt="mysql" width="30px" height="30px" src="assets/mysql .png" />
-<img align="left" alt="postgresql" width="30px" height="30px" src="files/Tensorflow.png" />
 <img align="left" alt="numpy" width="30px" height="30px" src="assets/numpy .png" />
 <img align="left" alt="python" width="30px" height="30px" src="assets/python .png" />
 <img align="left" alt="matplotlib" width="30px" height="30px" src="assets/matplotlib.png" />
