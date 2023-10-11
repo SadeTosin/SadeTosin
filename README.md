@@ -12,13 +12,13 @@ I am a certified computer scientist and data professional with a strong passion 
   <a href="https://www.linkedin.com/in/fola-oluwatosin-05b73023a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
- <a href="https://public.tableau.com/app/profile/folasade.oluwatosin" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://medium.com/@folaoluwatosin" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" height="35" alt="medium logo"  />
-     <a href="https://www.instagram.com/tech_with_fola/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="instagram logo"  />
+   <a href="https://public.tableau.com/app/profile/folasade.oluwatosin" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="35" alt="linkedin logo"  />
+  </a>
+     <!--<a href="https://www.instagram.com/tech_with_fola/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="instagram logo"  /> -->
   </a>
   </a>
 </div>
