@@ -33,7 +33,7 @@ I am a certified computer scientist and data professional with a strong passion 
 <img align="left" alt="numpy" width="30px" height="30px" src="assets/numpy .png" />
 <img align="left" alt="python" width="30px" height="30px" src="assets/python .png" />
 <img align="left" alt="matplotlib" width="30px" height="30px" src="assets/matplotlib.png" />
-<img align="left" alt="matplotlib" width="30px" height="30px" src="assets/matplotlib.png" />
+<img align="left" alt="tensorflow" width="30px" height="30px" src="files/TensorFlow.png" />
 <img align="left" alt="postgresql" width="30px" height="30px" src="assets/postgresql .png" />
 <img align="left" alt="numpy" width="30px" height="30px" src="files/scikit-learn.png" />
 <img align="left" alt="pandas" width="30px" height="30px" src="assets/pandas .png" />
