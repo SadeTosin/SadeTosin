@@ -30,15 +30,14 @@ I am a certified computer scientist and data professional with a strong passion 
 ### Languages and Tools:
 
 <img align="left" alt="PowerBI" width="30px" height="30px" src="assets/PowerBI .png" />
-<img align="left" alt="excel" width="30px" height="30px" src="assets/excel .png" />
+<img align="left" alt="Excel" width="30px" height="30px" src="assets/excel .png" />
 <img align="left" alt="ChatGPT" width="30px" height="30px" src="assets/ChatGPT.png" />
-<img align="left" alt="mysql" width="30px" height="30px" src="assets/mysql .png" />
+<img align="left" alt="sql" width="30px" height="30px" src="assets/SQL.png" />
 <img align="left" alt="numpy" width="30px" height="30px" src="assets/numpy .png" />
 <img align="left" alt="python" width="30px" height="30px" src="assets/python .png" />
 <img align="left" alt="matplotlib" width="30px" height="30px" src="assets/matplotlib.png" />
-<img align="left" alt="tensorflow" width="30px" height="30px" src="files/Tensorflow.png" />
+<img align="left" alt="PySpark" width="30px" height="30px" src="assets/pyspark.jpg" />
 <img align="left" alt="postgresql" width="30px" height="30px" src="assets/postgresql .png" />
-<img align="left" alt="numpy" width="30px" height="30px" src="files/scikit-learn.png" />
 <img align="left" alt="pandas" width="30px" height="30px" src="assets/pandas .png" />
 <img align="left" alt="tableau" width="30px" height="30px" src="assets/tableau .png" />
 
