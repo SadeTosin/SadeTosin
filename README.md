@@ -1,10 +1,10 @@
 <!--**SadeTosin/SadeTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![ViewCount](https://views.whatilearened.today/views/github/SadeTosin/README.md.svg?cache=remove)
-<h2 align="left">Hi there ! 👋 My name is Fola Oluwatosin - Data Analytics | Engineering </h2> 
+<h2 align="left">Hi there ! 👋 My name is Fola Oluwatosin - Data Analytics | Science </h2> 
 <br clear="both">
 <img align="centre" width="650" height="200" src="files/data-scientist.jpeg"  />
 <h3 align="left">Data Science Enthusiast  |  Passionate about Big Data  |  Creative Problem Solver </h3> 
-I am a certified computer scientist and data professional with a strong passion for data science.🔭  Currently, I am focused on data engineering and continuously expanding my knowledge in the field. I possess solid coding and problem-solving skills and have hands-on experience with the latest technologies. I am motivated by the desire to achieve success and thrive in challenging environments. Additionally, I am a continuous learner and have good knowledge of data science and machine learning. One interesting fact about me is that I love pets, especially dogs.⚡ My career objective is to contribute to a progressive organization, utilizing my technical and analytical skills to drive growth while staying up-to-date with emerging trends in the IT sector🌟.Join me in collaborating on thrilling data-driven projects! Let's connect and work together!
+I am a certified computer scientist and data professional with a strong passion for data science.🔭  Currently, I am exploring data engineering and continuously expanding my knowledge in the field. I possess solid coding and problem-solving skills and have hands-on experience with the latest technologies. I am motivated by the desire to achieve success and thrive in challenging environments. Additionally, I am a continuous learner and have good knowledge of data science and machine learning. One interesting fact about me is that I love pets, especially dogs.⚡ My career objective is to contribute to a progressive organization, utilizing my technical and analytical skills to drive growth while staying up-to-date with emerging trends in the IT sector🌟.Join me in collaborating on thrilling data-driven projects! Let's connect and work together!
 <br clear="both">
  <hr>
  <h3>Connect with me :</h3>
