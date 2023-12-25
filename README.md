@@ -7,7 +7,7 @@
 I am a certified computer scientist and data professional with a strong passion for data science.🔭  Currently, I am exploring data engineering and continuously expanding my knowledge in the field. I possess solid coding and problem-solving skills and have hands-on experience with the latest technologies. I am motivated by the desire to achieve success and thrive in challenging environments. Additionally, I am a continuous learner and have good knowledge of data science and machine learning. One interesting fact about me is that I love pets, especially dogs.⚡ My career objective is to contribute to a progressive organization, utilizing my technical and analytical skills to drive growth while staying up-to-date with emerging trends in the IT sector🌟.Join me in collaborating on thrilling data-driven projects! Let's connect and work together!
 <br clear="both">
  <hr>
- <h3>Connect with me :</h3>
+ <h3>Check me out :</h3>
 <div align="left">
   <!--<a href="https://www.linkedin.com/in/fola-oluwatosin-05b73023a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
