@@ -14,15 +14,19 @@ I am a certified computer scientist and data professional with a strong passion 
   </a>-->
   <a href="https://medium.com/@folaoluwatosin" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" height="35" alt="medium logo"  />
+  </a>
    <a href="https://public.tableau.com/app/profile/folasade.oluwatosin" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
     <a href="https://twitter.com/tech_with_fola)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
-     <!--<a href="https://www.instagram.com/tech_with_fola/" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="instagram logo"  /> -->
+   <a href="https://folaoluwatosin.com" target="_blank">
+    <img src="https://img.shields.io/badge/MY PORFOLIO-8A2BE2" height="35" alt="linkedin logo"  />
   </a>
+     <!--<a href="https://www.instagram.com/tech_with_fola/" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="instagram logo"  />
+  </a>-->
   </a>
 </div>
 <hr>
