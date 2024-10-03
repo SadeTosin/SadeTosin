@@ -9,7 +9,8 @@ I am a certified computer scientist and data professional with a strong passion 
  <hr>
  <h3>Connect :</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/fola-oluwatosin-05b73023a/" target="_blank">
+ 
+<!--   <a href="https://www.linkedin.com/in/fola-oluwatosin-05b73023a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@folaoluwatosin" target="_blank">
@@ -23,7 +24,8 @@ I am a certified computer scientist and data professional with a strong passion 
   </a>
    <a href="https://folaoluwatosin.com" target="_blank">
     <img src="https://img.shields.io/badge/MY PORTFOLIO-8A2BE2" height="35" alt="linkedin logo"  />
-  </a>
+  </a> -->
+ 
      <!--<a href="https://www.instagram.com/tech_with_fola/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="instagram logo"  />
   </a>-->
