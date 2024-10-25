@@ -1,6 +1,6 @@
 <!--**SadeTosin/SadeTosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![ViewCount](https://views.whatilearened.today/views/github/SadeTosin/README.md.svg?cache=remove)
-<h2 align="left">Hi there ! 👋 My name is Fola Oluwatosin - Data Science | Engineering </h2> 
+<h2 align="left">Hi there ! 👋 My name is Folasade Oluwatosin - Data Science | Engineering </h2> 
 <br clear="both">
 <img align="centre" width="650" height="200" src="files/data-scientist.jpeg"  />
 <h3 align="left">Data Enthusiast  |  Passionate about Tech  |  Creative Problem Solver </h3> 
